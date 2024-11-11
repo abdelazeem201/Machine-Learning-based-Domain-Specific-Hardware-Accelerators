@@ -1,0 +1,4 @@
+### Domain Specific Architectures
+
+A domain-specific accelerator is a hardware computing engine that is specialized for a particular domain of applications. Accelerators have been designed for graphics,26 deep learning,16 simulation,2 bioinformatics,49 image processing,38 and many other tasks. Accelerators can offer orders of magnitude improvements in performance/cost and performance/W compared to general-purpose computers. For example, our bioinformatics accelerator, Darwin,49 is up to 15,000x faster than a CPU at reference-based, long-read assembly. The performance and efficiency of accelerators is due to a combination of specialized operations, parallelism, efficient memory systems, and reduction of overhead. Domain-specific accelerators7 are becoming more pervasive and more visible, because they are one of the few remaining ways to continue to improve performance and efficiency now that Moore’s Law has ended.22
+
